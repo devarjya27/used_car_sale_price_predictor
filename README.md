@@ -15,7 +15,7 @@ The model utilizes the Multiple Linear Regression approach, which predicts a tar
 * Evaluated the model's performance using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score.
 
 ## Visualization
-Initially, interactive graphs were created using the `Altair` library to visualize the cost function and the actual vs. predicted prices. However, it was observed that the Altair graphs did not render correctly when uploaded to GitHub. As a result, the visualizations were switched to Seaborn, which provides static images that are compatible with GitHub.
+Initially, interactive graphs were created using the `Altair` library to visualize the cost function and the actual vs. predicted prices. However, it was observed that the Altair graphs did not render correctly when uploaded to GitHub. As a result, the visualizations were switched to `Seaborn`, which provides static images that are compatible with GitHub.
 
 ## Conclusion
 This project demonstrates the process of building and evaluating a Multiple Linear Regression model for predicting car prices. The transition from Altair to Seaborn for visualizations ensured better compatibility for sharing results on GitHub. The final model is assessed using key metrics to validate its performance.
