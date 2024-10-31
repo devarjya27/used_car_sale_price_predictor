@@ -1,4 +1,3 @@
-# Project MANAS - Task 2.0
 ## Overview
 This repository contains the implementation of a Multiple Linear Regression model to predict car prices based on various features such as mileage, engine size, fuel type, and more. The primary goal of this task is to develop a model that effectively estimates the prices of cars using the provided dataset.
 
